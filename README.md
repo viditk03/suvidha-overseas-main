@@ -25,4 +25,4 @@ This website was created as a part of an internship project. It showcases the se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/suvidha-overseas.git
+git clone https://github.com/viditk03/suvidha-overseas.git
